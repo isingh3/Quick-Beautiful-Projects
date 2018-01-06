@@ -1,6 +1,6 @@
 # Quick-Beautiful-Projects
 
-This is a quick project based repository.
+This is a quick project based repository usually 2 to 4 hours based projects for fun.
 
 1. Beautiful_Data_Visualization Project: Contains ***Jupyter Notebook that were originally written in Microsoft AzureML studio using R Kernel*** for some beautiful data transformations and visualising data for anomaly detection based on buckets.
 
